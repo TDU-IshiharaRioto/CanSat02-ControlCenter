@@ -1,0 +1,7 @@
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.vbproj.AssemblyReference.cache
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.Form1.resources
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.vbproj.GenerateResource.cache
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.AssemblyInfoInputs.cache
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.AssemblyInfo.vb
+C:\Users\KM\source\地上局\地上局\地上局\obj\Debug\net6.0-windows\地上局.vbproj.CoreCompileInputs.cache
